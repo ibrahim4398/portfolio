@@ -45,6 +45,7 @@ section {
 }
 
 .main {
+    background-color: black;
     display: flex;
     align-items: center;
     background: url(/image/programming-7708867_1920.jpg) no-repeat center center fixed;
@@ -53,7 +54,7 @@ section {
 }
 
 .main-content {
-    color: black;
+    color: #fff;
     text-align: center;
 }
 
@@ -69,7 +70,7 @@ section {
 }
 
 .main-content h3 {
-    color : black ; 
+    color: black;
     font-size: 2em;
     font-weight: 700;
     letter-spacing: 1px;
