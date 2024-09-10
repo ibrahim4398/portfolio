@@ -48,7 +48,9 @@ section {
     background-color: black;
     display: flex;
     align-items: center;
-    background: url(/image/programming-7708867_1920.jpg) no-repeat center center fixed;
+    background: url('./image/programming-7708867_1920.jpg') no-repeat center center fixed;
+
+
     min-height: 100vh;
     background-size: cover;
 }
